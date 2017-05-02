@@ -1,0 +1,50 @@
+prance.util.fs
+==============
+
+.. toctree::
+
+.. automodule:: prance.util.fs
+   :members:
+   :undoc-members:
+   :inherited-members:
+   :show-inheritance:
+
+
+
+
+Exceptions
+----------
+
+
+.. autoexception:: FileNotFoundError
+   :members:
+   :inherited-members:
+   :show-inheritance:
+
+
+
+
+
+
+
+
+
+
+
+
+Functions
+---------
+
+
+.. autofunction:: abspath
+
+.. autofunction:: canonical_filename
+
+.. autofunction:: detect_encoding
+
+.. autofunction:: read_file
+
+.. autofunction:: write_file
+
+
+
